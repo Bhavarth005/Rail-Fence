@@ -6,4 +6,4 @@
 This repository provides a Python implementation of both the Rail Fence Cipher and its corresponding Decipher algorithm.
 
 ### Key Differentiator : Deciphering Method
-- The deciphering method used in this implementation is simple and ~2x more efficient than the other implementations available online
+- The deciphering method used in this implementation is simple and __~2x more efficient__ than the other implementations available online
